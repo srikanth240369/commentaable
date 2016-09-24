@@ -1,12 +1,12 @@
 {
-    "name": "draperstudio/laravel-commentable",
+    "name": "srikanth240369/commentaable",
     "type": "library",
     "description": "Commentable Polymorphic Eloquent Models for for Laravel 5",
     "keywords": [
         "draperstudio",
         "laravel-commentable"
     ],
-    "homepage": "https://github.com/DraperStudio/laravel-commentable",
+    "homepage": "https://github.com/srikanth240369/commentaable",
     "license": "MIT",
     "authors": [{
         "name": "DraperStudio",
